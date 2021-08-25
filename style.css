@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(84, 182, 166);
+    background-color: black;
+    margin-top: 50px;
+    padding: 20px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+}
+
+
+
+
+h1{
+    background-color: aqua;
+}
+@media screen and (max-widht:300){
+
+    p{
+        background-color: black;
+    }
+}
